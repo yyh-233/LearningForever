@@ -1,0 +1,18 @@
+Python is a programming language that lets you work quickly
+and integrate systems more effectively
+
+作业：
+1、利用冒泡算法，给任意列表或者字典（任意一种）进行排序（所以这里要编写函数）（如果是字典的话，要求可以通过key或者value来排序）
+调试，输入参数[1,4,2,0,8,4,2,3,10,1]，或者{'a':1,……}
+2、xx小学一年级考试成绩如下：
+小红：98
+小明：77
+小兰：86
+小花：30
+小惠：60
+二狗：60
+狗剩：77
+小华：80
+打印前三名学生及成绩
+打印平均分
+打印不及格学生及成绩
